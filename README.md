@@ -1,0 +1,2 @@
+# cnos
+os for ourselfs
